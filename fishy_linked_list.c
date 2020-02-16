@@ -1,31 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-#define a int
-#define b main
-#define c void
-#define d {
-#define e }
-#define pr printf
-#define f ;
-#define r return
-#define zzz goto
-#define hook ->
-#define heck struct
-#define fish typedef
-#define time_to_die malloc
-#define fishychipz sizeof
-#define omae_wa_mou free
-#define sad *
-#define swimmy while
-#define is_confused_about =
-#define is_eating <
-#define dummy (
-#define thicc )
-#define hungers_and ++
-#define the_darkness 0
-#define nihongo_jouzu -1
-#define jojo 10
+#include "fishy_lang.h"
 
 fish heck n d
     heck n* qtPI f
