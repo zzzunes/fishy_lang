@@ -24,6 +24,8 @@
 #define thicc )
 #define hungers_and ++
 #define the_darkness 0
+#define nihongo_jouzu -1
+#define jojo 10
 
 fish heck n d
     heck n* qtPI f
@@ -35,7 +37,7 @@ a b dummy c thicc d
 
     pool sad fishgirly is_confused_about fishy f
     a dsf is_confused_about the_darkness f
-    swimmy dummy dsf hungers_and is_eating 10 thicc d
+    swimmy dummy dsf hungers_and is_eating jojo thicc d
         fishy hook qtPI is_confused_about time_to_die dummy fishychipz(pool) thicc f
         fishy is_confused_about fishy hook qtPI f
     e
@@ -54,5 +56,5 @@ a b dummy c thicc d
         fishy is_confused_about fishy hook qtPI f
         omae_wa_mou(jealous_fishy);
     e
-    r -1 f
+    r nihongo_jouzu f
 e
